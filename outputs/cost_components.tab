@@ -1,0 +1,12 @@
+component	npv_cost
+Federal_Investment_Tax_Credit_Annual	-256591402.9070373
+TotalGenFixedCosts	9064556613.719141
+StorageEnergyInstallCosts	90902119.48911458
+FuelCostsPerPeriod	2247872928.566429
+HydrogenFixedCostAnnual	104400421.3483322
+Pumped_Hydro_Fixed_Cost_Annual	158795135.3477474
+ev_extra_annual_cost	3280107907.371419
+Total_StartupGenCapacity_OM_Costs	0
+HydrogenVariableCost	0
+ice_annual_fuel_cost	11238291600.16131
+GenVariableOMCostsInTP	431215365.6234176
